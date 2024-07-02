@@ -1,4 +1,5 @@
 Hello, I’m Jessica
-I'm currently studying software engineering at McMaster University
 
-This github is currently used as a repository of interesting assignments and projects I have done in school so far.
+I'm a new grad from the software engineering program at McMaster University. A lot of the experience I gained in university was with machine learning and data science techniques which is an area I enjoy quite a lot. However I would say a lot of my passions and interests lie more in designing software architecture and modularization. One of the earliest personal projects I took on in highschool (the source code of which has sadly been lost) was building my own game engine. It was a project that didn't make it far as it was rather ambitious for my highschool self, but that project and the research I did for it introduced me to all sorts of ideas surrounding design patterns and the thinking that goes into structuring code. That project was what really kickstarted the interest I have in software architecture and design.
+
+This repository currently contains assignments and projects from my time in university, but I expect it to grow in the future and include more personal projects, perhaps even a second attempt at a game engine.
